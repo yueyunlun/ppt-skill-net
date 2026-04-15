@@ -21,6 +21,9 @@ This skill activates when the user's request involves:
 - Working with animations, multimedia, or hyperlinks
 - Generating speaker notes for presentations
 - Adding detailed演讲者备注 to slides
+- Applying global themes and color schemes to presentations
+- Changing PPT colors to tech blue with sans-serif fonts
+- Unifying presentation styles and themes
 - Automating PowerPoint workflows in .NET applications
 - Processing large batches of presentation files
 
@@ -61,6 +64,7 @@ presentation.SaveToFile("output.pdf", FileFormat.PDF);
 | Printing | [Printing](./references/14-printing.md) |
 | Text to Graphic | [Text to Graphic](./references/16-text-to-graphic.md) |
 | Speaker Notes Generation | [Speaker Notes Generation](./references/17-speaker-notes-generation.md) |
+| Global Theme Manager | [Global Theme Manager](./references/18-global-theme-manager.md) |
 | Best practices | [Best Practices](./references/15-best-practices.md) |
 
 ## Supported Formats

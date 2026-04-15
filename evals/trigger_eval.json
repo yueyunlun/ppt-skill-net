@@ -84,6 +84,38 @@
     "should_trigger": true
   },
   {
+    "query": "Apply tech blue theme to this presentation",
+    "should_trigger": true
+  },
+  {
+    "query": "Change PPT colors to沉稳科技蓝",
+    "should_trigger": true
+  },
+  {
+    "query": "Unify all fonts to sans-serif",
+    "should_trigger": true
+  },
+  {
+    "query": "Apply global theme to presentation",
+    "should_trigger": true
+  },
+  {
+    "query": "Change color scheme to dark mode",
+    "should_trigger": true
+  },
+  {
+    "query": "Apply elegant purple theme to slides",
+    "should_trigger": true
+  },
+  {
+    "query": "Create unified style for entire PPT",
+    "should_trigger": true
+  },
+  {
+    "query": "Apply business gray theme with rounded corners",
+    "should_trigger": true
+  },
+  {
     "query": "What is the weather today?",
     "should_trigger": false
   },
@@ -117,6 +149,14 @@
   },
   {
     "query": "Read演讲者备注 from slides",
+    "should_trigger": false
+  },
+  {
+    "query": "Extract theme colors from PPT",
+    "should_trigger": false
+  },
+  {
+    "query": "Get current font settings from PowerPoint",
     "should_trigger": false
   }
 ]
