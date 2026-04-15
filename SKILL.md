@@ -24,6 +24,11 @@ This skill activates when the user's request involves:
 - Applying global themes and color schemes to presentations
 - Changing PPT colors to tech blue with sans-serif fonts
 - Unifying presentation styles and themes
+- Creating PPT from templates and outlines
+- Generating presentation based on AI-created structure
+- Translating PowerPoint files to different languages
+- Using AI to translate PPT content
+- Auto-translating presentation text with AI services
 - Automating PowerPoint workflows in .NET applications
 - Processing large batches of presentation files
 
@@ -65,6 +70,8 @@ presentation.SaveToFile("output.pdf", FileFormat.PDF);
 | Text to Graphic | [Text to Graphic](./references/16-text-to-graphic.md) |
 | Speaker Notes Generation | [Speaker Notes Generation](./references/17-speaker-notes-generation.md) |
 | Global Theme Manager | [Global Theme Manager](./references/18-global-theme-manager.md) |
+| AI PPT Creation | [AI PPT Creation](./references/19-ai-ppt-creation.md) |
+| PPT Translation | [PPT Translation](./references/20-ppt-translation.md) |
 | Best practices | [Best Practices](./references/15-best-practices.md) |
 
 ## Supported Formats

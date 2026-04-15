@@ -116,6 +116,30 @@
     "should_trigger": true
   },
   {
+    "query": "Create a PowerPoint from template",
+    "should_trigger": true
+  },
+  {
+    "query": "Generate PPT based on outline",
+    "should_trigger": true
+  },
+  {
+    "query": "Create presentation using business template",
+    "should_trigger": true
+  },
+  {
+    "query": "Build PowerPoint from predefined template",
+    "should_trigger": true
+  },
+  {
+    "query": "Create structured PPT with cover, content, and thank you slides",
+    "should_trigger": true
+  },
+  {
+    "query": "Generate sales report PowerPoint automatically",
+    "should_trigger": true
+  },
+  {
     "query": "What is the weather today?",
     "should_trigger": false
   },
@@ -158,5 +182,29 @@
   {
     "query": "Get current font settings from PowerPoint",
     "should_trigger": false
+  },
+  {
+    "query": "Translate this PPT to English",
+    "should_trigger": true
+  },
+  {
+    "query": "Convert presentation to Chinese",
+    "should_trigger": true
+  },
+  {
+    "query": "Use AI to translate PowerPoint",
+    "should_trigger": true
+  },
+  {
+    "query": "Auto-translate PPT content",
+    "should_trigger": true
+  },
+  {
+    "query": "Translate Chinese presentation to English",
+    "should_trigger": true
+  },
+  {
+    "query": "Batch translate multiple PPT files",
+    "should_trigger": true
   }
 ]
