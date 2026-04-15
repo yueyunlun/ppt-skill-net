@@ -1,0 +1,90 @@
+[
+  {
+    "query": "Create a PowerPoint presentation using Spire.Presentation",
+    "should_trigger": true
+  },
+  {
+    "query": "Convert a PPTX file to PDF",
+    "should_trigger": true
+  },
+  {
+    "query": "Add a pie chart to a slide",
+    "should_trigger": true
+  },
+  {
+    "query": "Add a table with 5 rows and 3 columns",
+    "should_trigger": true
+  },
+  {
+    "query": "Insert an image into a PowerPoint slide",
+    "should_trigger": true
+  },
+  {
+    "query": "How do I add animations to a shape?",
+    "should_trigger": true
+  },
+  {
+    "query": "Protect a presentation with a password",
+    "should_trigger": true
+  },
+  {
+    "query": "Create a flow chart using SmartArt",
+    "should_trigger": true
+  },
+  {
+    "query": "Add video to a presentation",
+    "should_trigger": true
+  },
+  {
+    "query": "Batch convert multiple PPT files to PDF",
+    "should_trigger": true
+  },
+  {
+    "query": "Convert this text to a flowchart",
+    "should_trigger": true
+  },
+  {
+    "query": "Visualize these steps as a diagram",
+    "should_trigger": true
+  },
+  {
+    "query": "Turn this paragraph into SmartArt",
+    "should_trigger": true
+  },
+  {
+    "query": "Create a flowchart from this text",
+    "should_trigger": true
+  },
+  {
+    "query": "Convert text to graphic representation",
+    "should_trigger": true
+  },
+  {
+    "query": "What is the weather today?",
+    "should_trigger": false
+  },
+  {
+    "query": "Write a Python script for web scraping",
+    "should_trigger": false
+  },
+  {
+    "query": "How do I create a React component?",
+    "should_trigger": false
+  },
+  {
+    "query": "Explain quantum computing",
+    "should_trigger": false
+  },
+  {
+    "query": "Fix my SQL query",
+    "should_trigger": false
+  },
+  {
+    "query": "Convert image to text",
+    "should_trigger": false
+  },
+  {
+    "query": "Extract text from diagram",
+    "should_trigger": false
+  }
+]
