@@ -11,6 +11,7 @@ description: Spire.Presentation 高级功能包括水印、注释、页眉页脚
 Spire.Presentation 提供了许多高级功能来增强演示文稿的专业性和功能性，包括：
 - 文本和图片水印
 - 注释和备注
+- 晔讲者备注自动生成（详见[演讲者备注生成](./17-speaker-notes-generation.md)）
 - 页眉页脚
 - SmartArt（详见第7章）
 - OLE 对象
@@ -642,4 +643,5 @@ presentation.Dispose();
 
 - [文本处理](./03-text-content.md) - 备注文本格式化
 - [形状处理](./04-shapes-images.md) - 水印形状设计
+- [演讲者备注生成](./17-speaker-notes-generation.md) - 自动生成详细的演讲者备注
 - [安全性](./13-security.md) - 文档保护和加密

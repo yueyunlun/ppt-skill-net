@@ -19,6 +19,8 @@ This skill activates when the user's request involves:
 - Converting text to flowcharts, diagrams, or graphics
 - Visualizing text as SmartArt or structured diagrams
 - Working with animations, multimedia, or hyperlinks
+- Generating speaker notes for presentations
+- Adding detailed演讲者备注 to slides
 - Automating PowerPoint workflows in .NET applications
 - Processing large batches of presentation files
 
@@ -58,6 +60,7 @@ presentation.SaveToFile("output.pdf", FileFormat.PDF);
 | Security | [Security](./references/13-security.md) |
 | Printing | [Printing](./references/14-printing.md) |
 | Text to Graphic | [Text to Graphic](./references/16-text-to-graphic.md) |
+| Speaker Notes Generation | [Speaker Notes Generation](./references/17-speaker-notes-generation.md) |
 | Best practices | [Best Practices](./references/15-best-practices.md) |
 
 ## Supported Formats

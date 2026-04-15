@@ -60,6 +60,30 @@
     "should_trigger": true
   },
   {
+    "query": "Generate speaker notes for this presentation",
+    "should_trigger": true
+  },
+  {
+    "query": "Add演讲者备注 to all slides",
+    "should_trigger": true
+  },
+  {
+    "query": "Create speaking notes for the presentation",
+    "should_trigger": true
+  },
+  {
+    "query": "Generate detailed speaker notes for each slide",
+    "should_trigger": true
+  },
+  {
+    "query": "Add professional speaker notes to my PowerPoint",
+    "should_trigger": true
+  },
+  {
+    "query": "Automatically generate演讲备注 for the slides",
+    "should_trigger": true
+  },
+  {
     "query": "What is the weather today?",
     "should_trigger": false
   },
@@ -85,6 +109,14 @@
   },
   {
     "query": "Extract text from diagram",
+    "should_trigger": false
+  },
+  {
+    "query": "Extract speaker notes from presentation",
+    "should_trigger": false
+  },
+  {
+    "query": "Read演讲者备注 from slides",
     "should_trigger": false
   }
 ]
